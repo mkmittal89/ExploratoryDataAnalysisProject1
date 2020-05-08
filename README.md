@@ -49,14 +49,20 @@ Plot 1
 
 [image1]: https://github.com/mkmittal89/ExploratoryDataAnalysisProject1/blob/master/plot1.png
 
+Plot 2
+
 ![alt text][image2]
 
-[image2]: 
+[image2]: https://github.com/mkmittal89/ExploratoryDataAnalysisProject1/blob/master/plot2.png
+
+Plot 3
 
 ![alt text][image3]
 
-[image3]: 
+[image3]: https://github.com/mkmittal89/ExploratoryDataAnalysisProject1/blob/master/plot3.png
+
+Plot 4
 
 ![alt text][image4]
 
-[image4]:
+[image4]: https://github.com/mkmittal89/ExploratoryDataAnalysisProject1/blob/master/plot4.png

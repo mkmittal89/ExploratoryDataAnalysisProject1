@@ -47,7 +47,7 @@ Plot 1
 
 ![alt text][image1]
 
-[image1]: 
+[image1]: https://github.com/mkmittal89/ExploratoryDataAnalysisProject1/blob/master/plot1.png
 
 ![alt text][image2]
 
